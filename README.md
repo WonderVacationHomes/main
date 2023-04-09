@@ -1,2 +1,1 @@
-# main
-WonderVacationHomes.com
+# WonderVacationHomes.com
